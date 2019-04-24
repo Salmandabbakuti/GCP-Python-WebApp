@@ -8,14 +8,11 @@ Deploying Hello world Python App on Google Cloud Platform's App Engine
 │   ├── main.py
 │   └── requirements.txt
 ```
-folder Structure:
---app.yaml
---main.py
---requirements.txt
-
+2.Deploy App
 ```
 gcloud app deploy
 ```
+3.Browse APP
 ```
 gcloud app  browse
 ```

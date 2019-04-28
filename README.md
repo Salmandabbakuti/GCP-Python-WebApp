@@ -1,6 +1,8 @@
 # GCP-Python-WebAPP
 
-Deploying Hello world Python App on Google Cloud Platform's App Engine
+Deploying Hello world Python App on Google Cloud Platform's App Engine.
+
+Note: Trust me, if I say “App Engine cost you several bucks.” unless you have credits, don’t go further.
 
 ## Creating Project
 1.Go to GCP Console Home,Click on cloud shell icon. it will open shell cmd prompt on bottom screen
